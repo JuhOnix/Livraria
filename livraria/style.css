@@ -8,6 +8,6 @@
     --links: rgb(255, 255, 255);
 }
 
-body{
+.cabecalho{
     background-color: var(--cor-de-fundo);
 }
