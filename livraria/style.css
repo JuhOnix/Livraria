@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo: #ffffff;
-    --cor-do-texto: #000000;
+    --cor-do-texto: #653443;
     --cor-do-texto-2: #FFFFFF;
     --cor-do-texto-3: #653443;
     --cor-do-texto-4: #002F52;
@@ -12,4 +12,6 @@
 
 .cabecalho{
     background-color: var(--cor-de-fundo);
+
 }
+
